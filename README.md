@@ -35,7 +35,7 @@ A simple but powerful Sales Report Generator that reads sales data from a CSV fi
 
 ```
 ├── sample_sales_data.csv      # Input CSV data
-├── main.py  # Main Python script
+├── main.py                    # Main Python script
 ├── sales_report.pdf           # Output generated PDF
 └── README.md                  # This documentation
 ```
